@@ -1,7 +1,8 @@
 classdef ConsoleLogger < handle
     %CONSOLELOGGER Manage writing to console without newlines
     %
-    % Copyright (c) <2013> <Nathan Donnellan>
+    % MIT License==========================================================
+    % Copyright (c) 2013 Nathan Donnellan
     % 
     % Permission is hereby granted, free of charge, to any person obtaining
     % a copy of this software and associated documentation files (the
